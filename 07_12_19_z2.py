@@ -1,3 +1,5 @@
+# Changing str to number
+
 def change_to_number(number):
     num_ready = number.split()
     dictionary = {'jeden': 1, 'dwa': 2, 'trzy': 3, 'cztery': 4, 'pięć': 5,

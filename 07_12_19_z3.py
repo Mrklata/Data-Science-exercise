@@ -1,3 +1,5 @@
+#Creating dictionary
+
 def file_creator(num):
     dictionary = {}
     with open("./dictionary.txt", "w+") as file:
